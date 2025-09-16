@@ -10,5 +10,5 @@ Aqui estão os notebooks semanais, organizados de acordo com os tópicos estudad
 
 | Semana | Tópico Principal | Notebook |
 | :--- | :--- | :--- |
-| **Semana 7** | Classificação de Textos com `scikit-learn` | [Classificador de SPAM com Naive Bayes e SVM](https-seu-link-aqui) |
+| **Semana 7** | Classificação de Textos com `scikit-learn` | [Classificador de SPAM com Naive Bayes e SVM]([https-seu-link-aqui](https://github.com/anildoferreira/projetos-pln/blob/main/weekly-studies/semana-07-classificacao-svm.ipynb)) |
 | ... | ... | ... |
