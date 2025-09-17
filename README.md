@@ -1,4 +1,3 @@
-[Atualizando o README no GitHub_2.md](https://github.com/user-attachments/files/22388475/Atualizando.o.README.no.GitHub_2.md)
 # **📚 Meus Projetos de Processamento de Linguagem Natural (PLN)**
 
 Este repositório contém todos os projetos, desafios e notebooks desenvolvidos durante a disciplina de Processamento de Linguagem Natural. O objetivo é aplicar os conceitos teóricos em projetos práticos e construir um portfólio na área de PLN e Machine Learning.
